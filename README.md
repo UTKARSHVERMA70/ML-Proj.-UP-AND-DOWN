@@ -22,6 +22,9 @@ Read instruction given on Webpage!
 
 ```
 
+![alt text](Web.png)
+
+
 
 ## How to Make Own Model?
 Go to this link
@@ -31,6 +34,9 @@ Go to this link
 ||  After training complete, click on export || Then Click on Upload.
 
 ## After upload complete 
+
+![alt text](https://blog.kakaocdn.net/dn/NJvjw/btqZpVFUP1o/hV4zZygewNyGsOeCDBcPk1/img.png)
+
 ```
 Copy Tensorflow.js code and replace with my one
 Happy Making ML.
