@@ -1,0 +1,58 @@
+.Dev{
+    display: none;
+}
+
+
+
+body{
+
+    background-color: black;
+}
+
+.Heading{
+    margin: 11px 2px;
+    color: whitesmoke;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Heading:hover{
+
+    
+    color:red;
+    font-size: xx-large;
+
+}
+
+.But{
+
+    font-family: sans-serif;
+    padding: 15px;
+    font-weight: 1000;
+    color: white;
+    background-color: #2E2E2E;
+}
+
+.St{
+
+    padding: 50px;
+    border: blue;
+    background-color: #FFFFF0;
+    margin: 70PX 400PX;
+}
+
+.Text{
+
+    background-color: #171717;
+    color: whitesmoke;
+    font-family: 'Rubik', sans-serif;
+    padding: 50px;
+    font-weight: 700;
+    font-size: larger;
+}
+
+.Developer:hover{
+    color: blue;
+    font-size: xx-large;
+    font-weight: 700;
+}
